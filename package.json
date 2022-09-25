@@ -1,6 +1,6 @@
 {
-  "name": "MusicLyricFree",
-  "version": "0.0.1",
+  "name": "music-lyric-free",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
